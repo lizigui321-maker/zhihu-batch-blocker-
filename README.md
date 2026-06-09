@@ -4,8 +4,8 @@
 ![Author](https://img.shields.io/badge/Author-Gemini3.1pro-blue.svg?style=flat-square)
 ![PM](https://img.shields.io/badge/PM-Rick-orange.svg?style=flat-square)
 
-这是一个用于知乎 (Zhihu) 的前端自动化油猴/书签脚本 (Bookmarklet)。
-通过注入一个极具赛博朋克风格的控制面板，实现**一键全自动拉黑**特定知乎【专栏文章】或【回答】的**作者**以及**全部点赞者**。
+这是一个用于知乎 (Zhihu) 的前端自动化书签脚本 (Bookmarklet)。
+通过注入一个极具赛博朋克风格的控制面板，实现**一键全自动拉黑**特定知乎【专栏文章】或【回答】的作者以及全部点赞者。
 
 对付引战、低质量内容或特定群体，只需一键，即可彻底清理你的信息流。
 
