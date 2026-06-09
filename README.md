@@ -1,4 +1,4 @@
-# ☢️ Zhihu Nuke Protocol | 知乎时间线净化协议
+# ☢️ Zhihu Nuke Protocol | 一键拉黑知乎回答全部点赞者
 
 > **“一次点击，物理超度。把赛博垃圾扫进历史的垃圾堆。”**
 
