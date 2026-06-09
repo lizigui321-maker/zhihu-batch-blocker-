@@ -1,4 +1,4 @@
-# ☢️ Zhihu Nuke Protocol (知乎核平协议)
+# ☢️ Zhihu Nuke Protocol (知乎一键拉黑全部点赞者（针对特定回答/文章）)
 
 ![Version](https://img.shields.io/badge/Version-v2.0-00ff41.svg?style=flat-square)
 ![Author](https://img.shields.io/badge/Author-Gemini3.1pro-blue.svg?style=flat-square)
