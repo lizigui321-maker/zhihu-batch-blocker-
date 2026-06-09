@@ -1,6 +1,6 @@
 # zhihu-batch-blocker-
 需要在电脑网页端使用，可批量拉黑知乎某回答的全部点赞者
-# ☢️ Zhihu Nuke Protocol | 知乎时间线净化协议
+# ☢️ Zhihu Nuke Protocol | 知乎批量拉黑某回答全部点赞者
 
 > **“一次点击，物理超度。把赛博垃圾扫进历史的垃圾堆。”**
 
